@@ -1,0 +1,9 @@
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\bin\Debug\Genericos.exe.config
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\bin\Debug\Genericos.exe
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\bin\Debug\Genericos.pdb
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\obj\Debug\Genericos.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\obj\Debug\Genericos.Form1.resources
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\obj\Debug\Genericos.Properties.Resources.resources
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\obj\Debug\Genericos.csproj.GenerateResource.Cache
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\obj\Debug\Genericos.exe
+C:\Users\Fran\Documents\C#\Genericos\Genericos\Genericos\obj\Debug\Genericos.pdb
