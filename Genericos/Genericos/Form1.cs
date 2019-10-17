@@ -20,7 +20,7 @@ namespace Genericos
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(textBox1.Text);
+            listBox1.Items.Add(textBox1.Text +","+ textBox2.Text);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -31,15 +31,21 @@ namespace Genericos
 
             foreach (Object ob in listBox1.Items)
             {
-                clase.Add(ob);
+                String text = (String) ob;
+
+                String[] pal = text.Split(','); 
+
+                clase.Add(new Empleado(pal[0],double.Parse(pal[1])));
             }
 
             for (int i=0; i<tamano; i++)
             {
-                String dat = (String)clase.getElemento(i);
-                listBox2.Items.Add(dat);
+                Empleado dat = (Empleado) clase.getElemento(i);
+                String nom = dat.getNombre();
+                double sal = dat.getSalario();
+                listBox2.Items.Add(nom+","+sal);
             }
-
+             
         }
     }
 }

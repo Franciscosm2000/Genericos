@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClaseObjeto.cs" />
+    <Compile Include="Empleado.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
